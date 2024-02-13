@@ -2,4 +2,4 @@
 
 ## Project made with Jonas Schmedtmann with The Mastery of JavaScript Course
 
-Live Demo:
+Live Demo: https://mapty-gil.netlify.app/
